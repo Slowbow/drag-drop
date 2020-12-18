@@ -1,3 +1,3 @@
-# Sort users with Drag and Drop 
-Procject was made using Create-react-app. 
-With this mini app, you can sort list of users that is pulled from JSON file by dragging and dropping it to desired location. 
+# Sort users with Drag and Drop
+Project was made using React - create-react-app. 
+With this mini app, you can sort list of users which is pulled from JSON file, by dragging and dropping user card to a desired location. 
